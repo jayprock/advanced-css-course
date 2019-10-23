@@ -31,6 +31,11 @@
         background-color: $color-white;
         color: $color-grey-dark;
     }
+
+    &--primary {
+        background-color: $color-primary;
+        color: $color-white;
+    }
     
     &--animated {
         animation: moveInBottom 0.5s ease-out 0.5s;
